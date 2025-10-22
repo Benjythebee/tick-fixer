@@ -4,6 +4,10 @@ A real-time facial tic detection system using computer vision and machine learni
 
 I made this because I had a bad tick that I really wanted to get reminders to stop it.
 
+
+https://github.com/user-attachments/assets/67c31b60-c051-4123-8071-149d22e6f949
+
+
 ## 🌟 Features
 
 - **Real-time Face Tracking**: Uses MediaPipe FaceMesh to track 3D facial landmarks
